@@ -1,0 +1,2 @@
+('C:\\Users\\taroy\\Desktop\\ポートフォリオ作成用\\giziCreate\\giziCreate\\build\\screen\\PYZ-00.pyz',
+ [])
